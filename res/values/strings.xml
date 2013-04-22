@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioPlaybackDialog</string>
+    <string name="action_settings">Settings</string>
+    <string name="launch_dialog">Launch Audio Dialog</string>
+
+    <string name="timer_format" translatable="false">%d:%02d</string>
+    
+    <string name="err_playing">There was an error playing your file</string>
+    
+    <string name="au_cancel">Cancel</string>
+    <string name="au_play">Play</string>
+    <string name="au_stop">Stop</string>
+    <string name="au_resume">Resume</string>
+    <string name="au_pause">Pause</string>
+</resources>
